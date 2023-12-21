@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <br/>
- <div>
+
 <div align="left">
  
  🔭 I like to collaborate with people😊.
@@ -20,7 +20,6 @@
  <span align="right">
   <img height="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
 </span>
- </div>
  
 <div align="center"> 
   <a href="anuk35168@gmail.com"  target="_blank">
