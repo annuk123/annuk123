@@ -15,11 +15,11 @@
  🌱 I’m currently learning **DSA With Java**
 
 💬 Ask me about **Python, Java, Javascript... or anything [here](https://twitter.com/Annu66126617)**
- </div>
 
  <div align="right">
   <img height="150" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
 </div>
+ </div>
  
 <div align="center"> 
   <a href="anuk35168@gmail.com"  target="_blank">
