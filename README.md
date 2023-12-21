@@ -7,15 +7,15 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <br/>
-
-<div align="center">
+ <div>
+<div align="left">
  
  🔭 I like to collaborate with people😊.
  
  🌱 I’m currently learning **DSA With Java**
 
 💬 Ask me about **Python, Java, Javascript... or anything [here](https://twitter.com/Annu66126617)**
-
+ </div>
 
  <span align="right">
   <img height="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
