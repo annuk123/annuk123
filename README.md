@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+...;+I'm+Annu+Kumari!;" />
 </h1>
 
+ <div align="center">
+  <img height="150" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
+</div>
+
 <h3 align="center">A passionate software developer from India</h3>
 
 <br/>
@@ -16,9 +20,6 @@
 
 💬 Ask me about **Python, Java, Javascript... or anything [here](https://twitter.com/Annu66126617)**
 
- <div align="right">
-  <img height="150" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
-</div>
  </div>
  
 <div align="center"> 
