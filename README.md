@@ -49,38 +49,7 @@
 </div>
 
 <br/>
-<hr/>
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
-Generates a snake game from a github user contributions graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/annuk123/annuk123/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/annuk123/annuk123/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/annuk123/annuk123/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 
