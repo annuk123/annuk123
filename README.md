@@ -18,7 +18,7 @@
  </div>
 
  <span align="right">
-  <img height="200" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
+  <img height="150" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"  />
 </span>
  
 <div align="center"> 
