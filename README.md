@@ -71,7 +71,7 @@
     srcset="https://raw.githubusercontent.com/annuk123/annuk123/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/annuk123/annuk123/output/github-contribution-grid-snake.svg"
   />
 </picture>
