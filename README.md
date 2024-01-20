@@ -26,7 +26,7 @@
  <hr/>
 
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 
 <br/>
 
