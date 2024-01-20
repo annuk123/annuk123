@@ -69,7 +69,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annuk123&theme=dark)](https://git.io/streak-stats)
 
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/username=annuk123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"&layout=compact&theme=blue-green)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api?username=annuk123&count_private=true&show_icons=true&rank_icon=github&border_radius=10"&layout=compact&theme=blue-green)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYacinedouaouria&layout=compact&theme=blue-green)
 
  <!--  <img width=390 src="https://github-readme-stats.vercel.app/api?username=annuk123&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
