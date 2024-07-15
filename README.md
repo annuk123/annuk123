@@ -29,9 +29,8 @@
 <h3 align="center">A passionate software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 
 <br/>
-
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 <div align="center">
- 
  <p>🔭 I like to collaborate with people😊<img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" />. </p>
  
  🌱 I’m currently learning **DSA With Java**
