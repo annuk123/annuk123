@@ -47,6 +47,7 @@
 </div>
 
 <br/>
+<hr/>
 
 ### My Badges
 [![@annuk123's Holopin board](https://holopin.me/annuk123)](https://holopin.io/@annuk123)
@@ -59,7 +60,6 @@
 </h1> -->
 
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
