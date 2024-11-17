@@ -48,6 +48,8 @@
 
 <br/>
 
+### My Badges
+[![@annuk123's Holopin board](https://holopin.me/annuk123)](https://holopin.io/@annuk123)
 
 
 
