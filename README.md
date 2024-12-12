@@ -67,6 +67,7 @@
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annuk123&layout=compact&theme=blue-green)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annuk123&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=annuk123&theme=dark)](https://git.io/streak-stats)
 [![github stats](https://bad-apple-github-readme.vercel.app/api?username=annuk123&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
 
