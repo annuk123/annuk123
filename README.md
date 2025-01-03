@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annuk123.annuk123" />
-<a href="https://bio.link/annukumalu" target="_blank"><img src="https://github.com/annuk123/annuk123/blob/2e76b44993dcf2bd0c2ed0895ec675d380076bbd/Blue%20and%20Gray%20Illustration%20Personal%20LinkedIn%20Banner%20(4).png" /></a>
+<a href="https://bio.link/annukumalu" target="_blank"><img src="https://github.com/annuk123/annuk123/blob/5a5a2b6904ddd394aa76976c0db7eb0623e94c20/Blue%20and%20Gray%20Illustration%20Personal%20LinkedIn%20Banner%20(3).png" /></a>
 
 
 <h1 align="center">
