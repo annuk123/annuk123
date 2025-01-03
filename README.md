@@ -1,6 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annuk123.annuk123" />
-<a href="https://eddiejaoude.substack.com/p/links" target="_blank"><img src="![image](https://github.com/user-attachments/assets/e5673f5a-235a-49ce-a3e0-afeac6c03971)
-" /></a>
+<a href="https://bio.link/annukumalu" target="_blank"><img src="https://github.com/annuk123/annuk123/blob/2e76b44993dcf2bd0c2ed0895ec675d380076bbd/Blue%20and%20Gray%20Illustration%20Personal%20LinkedIn%20Banner%20(4).png" /></a>
 
 
 <h1 align="center">
