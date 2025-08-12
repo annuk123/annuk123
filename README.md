@@ -42,7 +42,7 @@ I love working at the intersection of design and code, building products that em
 ### 🌱 What I’m Focused On
 - 🚀 Scaling **UICrate** (UI components & templates)  
 - ⚡ Building **Algoflow** (workflow automation for indie makers)  
-- 📚 Leveling up my **JavaScript, TypeScript, and React** skills  
+- 📚 Leveling up my **JavaScript, TypeScript, Next.js, and Convex** skills  
 - 💬 Sharing my journey on [Twitter](https://twitter.com/Annu66126617)  
 
 ---
