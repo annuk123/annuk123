@@ -29,23 +29,25 @@
 
 ---
 
-<h3 align="center"> Indie Maker | Full-Stack Developer | Open-Source Builder</h3>
+
+<h3 align="center">Indie Maker • Full-Stack Developer • Open-Source Builder</h3>
 
 <p align="center">
-I'm a self-taught developer from India, passionate about crafting beautiful and user-centric web experiences.  
-Currently building <b>UICrate</b> & <b>Algoflow</b> — tools to make design & dev workflows faster for creators.  
-I love working at the intersection of design and code, building products that empower people.  
+I'm a self-taught developer from India, focused on building fast, clean and user-centric web products.  
+Currently building <b>RemindMe</b> — a smart workflow & reminders platform for indie makers and creators.  
+I love working at the intersection of design and engineering, crafting tools that simplify work and boost productivity.
 </p>
 
 ---
 
-###  What I’m Focused On
--  Scaling **UICrate** (UI components & templates)  
--  Building **Algoflow** (workflow automation for indie makers)  
--  Leveling up my **JavaScript, TypeScript, Next.js, and Convex** skills  
--  Sharing my journey on [Twitter](https://twitter.com/Annu66126617)  
+### What I’m Working On
+
+* Building **RemindMe** (automation-first reminders & workflow system)
+* Improving my skills in **JavaScript, TypeScript, Next.js, Convex & system design**
+* Documenting my indie journey on [Twitter](https://twitter.com/Annu66126617)
 
 ---
+
 
 ###  Tech Stack
 <div align="center">
