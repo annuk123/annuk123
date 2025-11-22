@@ -39,27 +39,27 @@ I love working at the intersection of design and code, building products that em
 
 ---
 
-### 🌱 What I’m Focused On
-- 🚀 Scaling **UICrate** (UI components & templates)  
-- ⚡ Building **Algoflow** (workflow automation for indie makers)  
-- 📚 Leveling up my **JavaScript, TypeScript, Next.js, and Convex** skills  
-- 💬 Sharing my journey on [Twitter](https://twitter.com/Annu66126617)  
+###  What I’m Focused On
+-  Scaling **UICrate** (UI components & templates)  
+-  Building **Algoflow** (workflow automation for indie makers)  
+-  Leveling up my **JavaScript, TypeScript, Next.js, and Convex** skills  
+-  Sharing my journey on [Twitter](https://twitter.com/Annu66126617)  
 
 ---
 
-### ⚒️ Tech Stack
+###  Tech Stack
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,python,java,git,github,vscode,django,postgresql,prisma,vercel,netlify,materialui" />
 </div>
 
 ---
 
-### 🏆 My Badges
+### My Badges
 [![@annuk123's Holopin board](https://holopin.me/annuk123)](https://holopin.io/@annuk123)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annuk123&layout=compact&theme=blue-green)
