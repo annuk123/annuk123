@@ -40,16 +40,6 @@ I share honest progress, learnings, and doubts on
 
 ---
 
-###  Data Analytics (Learning in Public)
-
-I’m building a foundation in analytics to support product validation and decision-making:
-
-- SQL fundamentals & analytical thinking  
-- Dashboarding & KPI storytelling (practice projects)  
-- Translating raw data into clear insights  
-
----
-
 ### 🤝 Let’s Connect
 
 <div align="center">
