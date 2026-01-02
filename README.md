@@ -50,18 +50,6 @@ I’m building a foundation in analytics to support product validation and decis
 
 ---
 
-
-###  Tech I Use (When Needed)
-
-<div align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
- <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,tailwind,figma,python,java,git,github,vscode,postgresql,prisma,vercel" />
-</div>
-
-I keep my stack **lean, boring, and practical**.
-
----
-
 ### 🤝 Let’s Connect
 
 <div align="center">
