@@ -13,7 +13,7 @@ I care more about **clarity, usability, and shipping** than hype.
 
 ---
 
-### 🚀 Currently Building
+###  Currently Building
 
 **RemindMe**  
 A smart workflow & reminders platform designed for indie makers who want structure without complexity.
@@ -35,10 +35,11 @@ I share progress and thoughts on
 
 ---
 
-### 🛠 Tech I Use (When Needed)
+###  Tech I Use (When Needed)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,prisma,vercel,git,github,figma" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+ <img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,express,tailwind,figma,python,java,git,github,vscode,postgresql,prisma,vercel" />
 </div>
 
 I keep my stack **lean, boring, and practical**.
@@ -49,10 +50,11 @@ I keep my stack **lean, boring, and practical**.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annuk123&layout=compact&theme=neutral)
-
-![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?username=annuk123&show_icons=true&count_private=true&theme=neutral)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annuk123&theme=blue-green)](https://git.io/streak-stats)
+<a href="https://github.com/annuk123/github-stats">
+<img src="https://github.com/annuk123/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/annuk123/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 </div>
 
 ---
@@ -60,15 +62,7 @@ I keep my stack **lean, boring, and practical**.
 ### 🤝 Let’s Connect
 
 <div align="center">
-  <a href="mailto:anuk35168@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/annu-kumari-540337237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://projexio-annu-kumari.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=flat&logo=vercel" />
-  </a>
+  <a href="mailto:anuk35168@gmail.com"> <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/annu-kumari-540337237/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/Annu66126617" target="_blank"> <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://projexio-annu-kumari.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> </a>
 </div>
 
 ---
