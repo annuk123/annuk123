@@ -6,34 +6,50 @@
 
 ## Hi, I’m Annu 👋
 
-**Indie Hacker · Builder · Product-focused Developer**
+**Indie Hacker · Early-stage Founder · Builder**
 
-I’m a self-taught developer from India, building calm, intentional products for solo founders and creators.  
-I care more about **clarity, usability, and shipping** than hype.
+I’m a self-taught developer from India, learning by building and thinking deeply about products.  
+I care about clarity, fundamentals, and shipping things that actually help — not chasing hype.
 
 ---
 
-###  Currently Building
+###  Currently Exploring & Building
 
-**RemindMe**  
-A smart workflow & reminders platform designed for indie makers who want structure without complexity.
+**Nexra AI**  
+An early-stage product idea focused on helping founders think more clearly about their startup ideas  
+before committing time, money, or emotional energy.
 
-- Automation-first reminders  
-- Simple workflows for daily execution  
-- Built with long-term usability in mind
+What I’m doing right now:
+- Clarifying the core problem and user persona  
+- Talking to builders and collecting early feedback  
+- Experimenting with product direction and positioning  
+
+This stage is **early, iterative, and intentionally slow**.
 
 ---
 
 ###  What I’m Focused On
 
-- Shipping small, meaningful features consistently  
-- Improving product thinking & system design  
-- Building in public and documenting learnings  
+- Learning **product thinking & system design** by building in public  
+- Developing **Data Analytics skills** (SQL, dashboards, insights)  
+  to make better product and business decisions  
+- Shipping small, meaningful improvements consistently  
 
-I share progress and thoughts on  
+I share honest progress, learnings, and doubts on  
 → **Twitter:** https://twitter.com/Annu66126617
 
 ---
+
+###  Data Analytics (Learning in Public)
+
+I’m building a foundation in analytics to support product validation and decision-making:
+
+- SQL fundamentals & analytical thinking  
+- Dashboarding & KPI storytelling (practice projects)  
+- Translating raw data into clear insights  
+
+---
+
 
 ###  Tech I Use (When Needed)
 
@@ -46,19 +62,6 @@ I keep my stack **lean, boring, and practical**.
 
 ---
 
-###  GitHub Snapshot
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=annuk123&theme=blue-green)](https://git.io/streak-stats)
-<a href="https://github.com/annuk123/github-stats">
-<img src="https://github.com/annuk123/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/annuk123/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-</div>
-
----
-
 ### 🤝 Let’s Connect
 
 <div align="center">
@@ -66,7 +69,5 @@ I keep my stack **lean, boring, and practical**.
 </div>
 
 ---
-
-<sub>Building slowly. Thinking deeply. Shipping honestly.</sub>
-
+<sub>Building slowly. Learning honestly. Thinking deeply. Optimizing for clarity over speed.</sub>
 
