@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annuk123.annuk123" />
 
 <a href="https://bio.link/annukumalu" target="_blank">
-  <img src="https://github.com/annuk123/annuk123/blob/main/Green%20and%20Black%20Modern%20Software%20Developer%20LinkedIn%20Banner%20(1).png" />
+  <img src="https://github.com/annuk123/annuk123/blob/main/banner.jpeg" />
 </a>
 
 <h1 align="center">
