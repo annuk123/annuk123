@@ -15,12 +15,12 @@
 
 ##  Current Projects
 
-* **Nexra AI** – AI startup idea validator & decision engine for founders
+* [Nexra AI](https://nexra.pixelui.studio/)  – AI startup idea validator & decision engine for founders
 * **Nexra Roast** – Viral idea roast board for brutal, honest startup feedback
 * **Nexra Launch Assistant** – Distribution & caption generator for founders
-* **RemindMe** – Smart reminder system built with Next.js, NextAuth, Convex
-* **UICrate** – UI components & templates for indie builders
-* **Algoflow** – DSA algorithms visualizer & learning platform
+* [RemindMe](https://remindme.pixelui.studio/)  – Smart reminder system built with Next.js, NextAuth, Convex
+* [UICrate](https://www.pixelui.studio/)  – UI components & templates for indie builders
+* [Algoflow](https://www.algoflux.tech/)  – DSA algorithms visualizer & learning platform
 
 ---
 
@@ -35,9 +35,9 @@
 
 ##  Latest Blog Posts
 
-* **I Thought Cloud Was Magic.**
-* **How Frameworks, Platforms, and REST APIs Finally Made Sense**
-* **I Built My First FastAPI Backend**
+* [I Thought Cloud Was Magic.](https://annu-kumari.pixelui.studio/notes/build/cloud-is-just-buildings)
+* [How Frameworks, Platforms, and REST APIs Finally Made Sense](https://annu-kumari.pixelui.studio/notes/build/rest-apis-finally-made-sense)
+* [I Built My First FastAPI Backend](https://annu-kumari.pixelui.studio/notes/build/fastapi-backend-lessons)
 
 
 ---
