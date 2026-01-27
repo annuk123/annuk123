@@ -1,51 +1,83 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=annuk123.annuk123" />
+## Hi, I'm Annu 👋
 
-<a href="https://bio.link/annukumalu" target="_blank">
-  <img src="https://github.com/annuk123/annuk123/blob/main/banner.jpeg" />
-</a>
+📍 India → Building globally |  AI-native founder |  Building Nexra AI
 
-## Hi, I’m Annu 👋
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=flat\&logo=openai\&logoColor=white)
 
-**Indie Hacker · Early-stage Founder · Builder**
-
-I’m a self-taught developer from India, learning by building and thinking deeply about products.  
-I care about clarity, fundamentals, and shipping things that actually help — not chasing hype.
-
----
-
-###  Currently Exploring & Building
-
-**Nexra AI**  
-An early-stage product idea focused on helping founders think more clearly about their startup ideas  
-before committing time, money, or emotional energy.
-
-What I’m doing right now:
-- Clarifying the core problem and user persona  
-- Talking to builders and collecting early feedback  
-- Experimenting with product direction and positioning  
-
-This stage is **early, iterative, and intentionally slow**.
+> Deep in founder mode — building AI systems that think with you, not just for you. Focused on honest feedback, clear decisions, and founder leverage.
 
 ---
 
-###  What I’m Focused On
+##  Current Projects
 
-- Learning **product thinking & system design** by building in public  
-- Developing **Data Analytics skills** (SQL, dashboards, insights)  
-  to make better product and business decisions  
-- Shipping small, meaningful improvements consistently  
+* **Nexra AI** – AI startup idea validator & decision engine for founders
+* **Nexra Roast** – Viral idea roast board for brutal, honest startup feedback
+* **Nexra Launch Assistant** – Distribution & caption generator for founders
+* **RemindMe** – Smart reminder system built with Next.js, NextAuth, Convex
+* **UICrate** – UI components & templates for indie builders
+* **Algoflow** – DSA algorithms visualizer & learning platform
 
-I share honest progress, learnings, and doubts on  
-→ **Twitter:** https://twitter.com/Annu66126617
+---
+
+##  What I’m Doing
+
+* Living in the AI-native future — building founder-first AI tools
+* Designing Nexra as a serious thinking partner (not just reports)
+* Rapid prototyping: shipping in days, not months
+* Writing about indie hacking, AI founders, and product strategy
 
 ---
 
-### 🤝 Let’s Connect
+##  Latest Blog Posts
 
-<div align="center">
-  <a href="mailto:anuk35168@gmail.com"> <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://www.linkedin.com/in/annu-kumari-540337237/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/Annu66126617" target="_blank"> <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://projexio-annu-kumari.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> </a>
-</div>
+* **I Thought Cloud Was Magic.**
+* **How Frameworks, Platforms, and REST APIs Finally Made Sense**
+* **I Built My First FastAPI Backend**
+
 
 ---
-<sub>Building slowly. Learning honestly. Thinking deeply. Optimizing for clarity over speed.</sub>
+
+##  Connect
+
+* X (Twitter): [https://x.com/Annu66126617](https://x.com/Annu66126617)
+* Linkedin: [https://www.linkedin.com/in/annu-kumari-540337237/](https://www.linkedin.com/in/annu-kumari-540337237/)
+* GitHub: [https://github.com/annuk123](https://github.com/annuk123)
+* Portfolio: [https://annu-kumari.pixelui.studio/](https://annu-kumari.pixelui.studio/)
+
+---
+
+##  Recognition & Milestones
+
+* Built Nexra AI & Nexra ecosystem as an indie founder
+* Multiple indie projects shipped (RemindMe, UICrate, Algoflow)
+
+---
+
+##  Model Status
+
+* Currently experimenting with hybrid AI decision engines (rules + LLM)
+* Founder Modes: Safe / Balanced / Aggressive (Nexra roadmap)
+
+---
+
+##  Philosophy
+
+> "Truth beats sugarcoating. Direction beats motivation. Ship beats perfect."
+
+I build tools to think clearly, kill bad ideas early, and scale good ones faster.
+
+---
+
+##  Random Facts
+
+* Indie hacker obsessed with AI founders tools
+* Building Nexra as a long-term AI startup ecosystem
+* Loves layered gradients, glow UI, and dark mode design
+* Inspired by Sam Altman, Steve Jobs, Pavel Durov, Marc Lou
+* Believes AI should challenge founders, not flatter them
 
