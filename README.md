@@ -1,6 +1,6 @@
 ## Hi, I'm Annu 👋
 
-📍 India → Building globally |  AI-native founder |  Building Nexra AI
+Solopreneur |  AI-native founder |  Building Nexra AI
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
@@ -13,71 +13,98 @@
 
 ---
 
-##  Current Projects
+## Nexra
 
-* [Nexra AI](https://nexra.pixelui.studio/)  – AI startup idea validator & decision engine for founders
-* **Nexra Roast** – Viral idea roast board for brutal, honest startup feedback
-* **Nexra Launch Assistant** – Distribution & caption generator for founders
-* [RemindMe](https://remindme.pixelui.studio/)  – Smart reminder system built with Next.js, NextAuth, Convex
-* [UICrate](https://www.pixelui.studio/)  – UI components & templates for indie builders
-* [Algoflow](https://www.algoflux.tech/)  – DSA algorithms visualizer & learning platform
+**Nexra is an AI-native decision engine designed to help founders think clearly, validate ideas, and execute with direction.**
 
----
+It is being built as a software-based accelerator — combining reasoning systems, structured decision frameworks, and long-term founder memory.
 
-##  What I’m Doing
+**Core principles:**
 
-* Living in the AI-native future — building founder-first AI tools
-* Designing Nexra as a serious thinking partner (not just reports)
-* Rapid prototyping: shipping in days, not months
-* Writing about indie hacking, AI founders, and product strategy
+* Clarity over motivation
+* Truth over comfort
+* Decisions over noise
+* Systems over hacks
 
----
+Nexra is not a chatbot.
+It is an evolving decision infrastructure for founders.
 
-##  Latest Blog Posts
-
-* [I Thought Cloud Was Magic.](https://annu-kumari.pixelui.studio/notes/build/cloud-is-just-buildings)
-* [How Frameworks, Platforms, and REST APIs Finally Made Sense](https://annu-kumari.pixelui.studio/notes/build/rest-apis-finally-made-sense)
-* [I Built My First FastAPI Backend](https://annu-kumari.pixelui.studio/notes/build/fastapi-backend-lessons)
-
+**Primary product:**
+[https://nexra.pixelui.studio/](https://nexra.pixelui.studio/)
 
 ---
 
-##  Connect
+## Focus
 
-* X (Twitter): [https://x.com/Annu66126617](https://x.com/Annu66126617)
-* Linkedin: [https://www.linkedin.com/in/annu-kumari-540337237/](https://www.linkedin.com/in/annu-kumari-540337237/)
-* GitHub: [https://github.com/annuk123](https://github.com/annuk123)
-* Portfolio: [https://annu-kumari.pixelui.studio/](https://annu-kumari.pixelui.studio/)
+My work is currently centered entirely around Nexra, across three layers:
 
----
+**Decision Layer**
 
-##  Recognition & Milestones
+* Idea validation engine
+* Structured reasoning systems
+* Founder decision support
 
-* Built Nexra AI & Nexra ecosystem as an indie founder
-* Multiple indie projects shipped (RemindMe, UICrate, Algoflow)
+**Memory Layer**
 
----
+* Persistent founder context
+* Decision history and pattern tracking
+* Long-term thinking continuity
 
-##  Model Status
+**Strategy Layer**
 
-* Currently experimenting with hybrid AI decision engines (rules + LLM)
-* Founder Modes: Safe / Balanced / Aggressive (Nexra roadmap)
-
----
-
-##  Philosophy
-
-> "Truth beats sugarcoating. Direction beats motivation. Ship beats perfect."
-
-I build tools to think clearly, kill bad ideas early, and scale good ones faster.
+* Execution guidance
+* Market grounding
+* Structured planning systems
 
 ---
 
-##  Random Facts
+## Technical Stack
 
-* Indie hacker obsessed with AI founders tools
-* Building Nexra as a long-term AI startup ecosystem
-* Loves layered gradients, glow UI, and dark mode design
-* Inspired by Sam Altman, Steve Jobs, Pavel Durov, Marc Lou
-* Believes AI should challenge founders, not flatter them
+Next.js
+TypeScript
+Python
+FastAPI
+Convex
+Node.js
 
+AI systems engineering, reasoning architecture, and decision infrastructure.
+
+---
+
+## Supporting Infrastructure
+
+These projects exist to support the broader Nexra ecosystem:
+
+* RemindMe — infrastructure for reliable task and reminder systems
+* UICrate — internal UI system and component foundation
+* Algoflow — algorithm and systems thinking environment
+
+---
+
+## Writing
+
+Notes on systems thinking, engineering, and building Nexra:
+
+[https://annu-kumari.pixelui.studio/](https://annu-kumari.pixelui.studio/)
+
+---
+
+## Contact
+
+X: [https://x.com/Annu66126617](https://x.com/Annu66126617)
+GitHub: [https://github.com/annuk123](https://github.com/annuk123)
+LinkedIn: [https://www.linkedin.com/in/annu-kumari-540337237/](https://www.linkedin.com/in/annu-kumari-540337237/)
+
+---
+
+## Philosophy
+
+Build systems that help founders see reality clearly.
+
+Remove noise.
+Increase leverage.
+Enable correct decisions.
+
+---
+
+Nexra is the focus.
