@@ -1,99 +1,70 @@
-## Hi, I'm Annu 👋
+# Hi, I'm Annu 👋
 
-Solopreneur |  AI-native founder |  Building Nexra AI
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![AI](https://img.shields.io/badge/AI-000000?style=flat\&logo=openai\&logoColor=white)
-
-> Deep in founder mode — building AI systems that think with you, not just for you. Focused on honest feedback, clear decisions, and founder leverage.
+Solopreneur | AI-native founder  
+Building Nexra — a thinking partner for founders
 
 ---
 
-## Nexra
+## What I'm Building
 
-**Nexra is an AI-native decision engine designed to help founders think clearly, validate ideas, and execute with direction.**
+### Nexra
 
-It is being built as a software-based accelerator — combining reasoning systems, structured decision frameworks, and long-term founder memory.
+Nexra is an AI-native thinking partner designed to help founders think clearly, validate ideas, and execute with direction.
 
-**Core principles:**
+It does not replace thinking.  
+It strengthens it.
 
-* Clarity over motivation
-* Truth over comfort
-* Decisions over noise
-* Systems over hacks
+It does not motivate.  
+It structures reasoning.
 
-Nexra is not a chatbot.
-It is an evolving decision infrastructure for founders.
-
-**Primary product:**
-[https://nexra.pixelui.studio/](https://nexra.pixelui.studio/)
+Nexra helps founders:
+- Clarify messy ideas
+- Confront weak assumptions
+- See tradeoffs clearly
+- Move from thought → decision → execution
 
 ---
 
-## Focus
+## Core Principles
 
-My work is currently centered entirely around Nexra, across three layers:
+- Clarity over motivation
+- Truth over comfort
+- Decisions over noise
+- Systems over hacks
+
+---
+
+## Architecture Focus
+
+Nexra is being built across three layers:
 
 **Decision Layer**
-
-* Idea validation engine
-* Structured reasoning systems
-* Founder decision support
+- Idea validation engine
+- Structured reasoning systems
+- Directional clarity with concrete next steps
 
 **Memory Layer**
-
-* Persistent founder context
-* Decision history and pattern tracking
-* Long-term thinking continuity
+- Persistent founder context
+- Decision history and pattern tracking
+- Long-term thinking continuity
 
 **Strategy Layer**
-
-* Execution guidance
-* Market grounding
-* Structured planning systems
+- Market grounding
+- Execution guidance
+- Structured planning systems
 
 ---
 
 ## Technical Stack
 
-Next.js
-TypeScript
-Python
-FastAPI
-Convex
-Node.js
+Next.js  
+TypeScript  
+Python  
+FastAPI  
+Convex  
+Node.js  
 
-AI systems engineering, reasoning architecture, and decision infrastructure.
-
----
-
-## Supporting Infrastructure
-
-These projects exist to support the broader Nexra ecosystem:
-
-* RemindMe — infrastructure for reliable task and reminder systems
-* UICrate — internal UI system and component foundation
-* Algoflow — algorithm and systems thinking environment
-
----
-
-## Writing
-
-Notes on systems thinking, engineering, and building Nexra:
-
-[https://annu-kumari.pixelui.studio/](https://annu-kumari.pixelui.studio/)
-
----
-
-## Contact
-
-X: [https://x.com/Annu66126617](https://x.com/Annu66126617)
-GitHub: [https://github.com/annuk123](https://github.com/annuk123)
-LinkedIn: [https://www.linkedin.com/in/annu-kumari-540337237/](https://www.linkedin.com/in/annu-kumari-540337237/)
+AI systems engineering • Reasoning architecture • Decision infrastructure
 
 ---
 
@@ -101,10 +72,6 @@ LinkedIn: [https://www.linkedin.com/in/annu-kumari-540337237/](https://www.linke
 
 Build systems that help founders see reality clearly.
 
-Remove noise.
-Increase leverage.
+Remove noise.  
+Increase leverage.  
 Enable correct decisions.
-
----
-
-Nexra is the focus.
