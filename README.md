@@ -1,77 +1,28 @@
-# Hi, I'm Annu 👋
+**Annu Kumari** · solo founder
 
-Solopreneur | AI-native founder  
-Building Nexra — a thinking partner for founders
-
----
-
-## What I'm Building
-
-### Nexra
-
-Nexra is an AI-native thinking partner designed to help founders think clearly, validate ideas, and execute with direction.
-
-It does not replace thinking.  
-It strengthens it.
-
-It does not motivate.  
-It structures reasoning.
-
-Nexra helps founders:
-- Clarify messy ideas
-- Confront weak assumptions
-- See tradeoffs clearly
-- Move from thought → decision → execution
+Building [Nexra](https://nexralab.com) — an AI thinking partner that challenges founder assumptions rather than validating them.  
+Also learning Japanese and doing photography under [@QuietNature](https://instagram.com/QuietNature).
 
 ---
 
-## Core Principles
+**What I'm building**
 
-- Clarity over motivation
-- Truth over comfort
-- Decisions over noise
-- Systems over hacks
+**[nexralab.com](https://nexralab.com)** `active`
 
----
+Nexra is a judgment layer for founders — it helps clarify reasoning, surface weak assumptions, and structure decisions before execution. Not a deliverable generator. Not a validator. A thinking partner that pushes back.
 
-## Architecture Focus
-
-Nexra is being built across three layers:
-
-**Decision Layer**
-- Idea validation engine
-- Structured reasoning systems
-- Directional clarity with concrete next steps
-
-**Memory Layer**
-- Persistent founder context
-- Decision history and pattern tracking
-- Long-term thinking continuity
-
-**Strategy Layer**
-- Market grounding
-- Execution guidance
-- Structured planning systems
+| Decision Layer | Memory Layer | Strategy Layer |
+|---|---|---|
+| Idea validation · Structured reasoning · Directional clarity | Persistent founder context · Decision history · Long-term continuity | Market grounding · Execution planning · Structured frameworks |
 
 ---
 
-## Technical Stack
+**Stack**
 
-Next.js  
-TypeScript  
-Python  
-FastAPI  
-Convex  
-Node.js  
-
-AI systems engineering • Reasoning architecture • Decision infrastructure
+`Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL` `OpenAI API` `Vercel` `Digital Ocean`
 
 ---
 
-## Philosophy
+**Interests**
 
-Build systems that help founders see reality clearly.
-
-Remove noise.  
-Increase leverage.  
-Enable correct decisions.
+Reasoning systems · AI-native product architecture · Solo building · Japanese (learning) · Nature photography
