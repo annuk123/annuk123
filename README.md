@@ -1,198 +1,55 @@
-# Hey, I'm Annu 👋
+# Hi, I'm Annu Kumari
 
-<p align="center">
-  Solo Founder · Builder · Exploring Embedded Systems, Robotics & AI
-</p>
+**Aspiring Embedded Systems Engineer | IoT & Robotics Enthusiast | Indie Builder**
 
-<p align="center">
-  <a href="https://annu-kumari.nexralab.com">Portfolio</a> ·
-  <a href="https://x.com/Annu_NexraAI">X</a> ·
-  <a href="https://www.linkedin.com/in/annu-kumari-540337237">LinkedIn</a> ·
-  <a href="https://www.youtube.com/@nexralab-ai">YouTube</a> ·
-  <a href="https://www.instagram.com/solopreneur_annu">Instagram</a>
-</p>
+I'm exploring how hardware and software work together to build intelligent systems. My current focus is on embedded systems, microcontrollers, electronics fundamentals, and Python, with a long-term interest in robotics and edge AI.
+
+I believe in learning by building, debugging, and understanding systems from the ground up.
+
+[Portfolio](https://annu-kumari.nexralab.com) · [X](https://x.com/Annu_NexraAI) · [LinkedIn](https://www.linkedin.com/in/annu-kumari-540337237) · [YouTube](https://www.youtube.com/@nexralab-ai)
 
 ---
 
-## What I'm focused on
+## Current Focus
 
-I'm a solo founder and builder exploring how intelligent systems work — from **electronics and embedded systems** to **IoT, robotics, machine learning, and AI**.
+- **Embedded Systems:** ESP32, Arduino, GPIO, sensors, actuators, and hardware debugging
+- **Electronics:** Circuit fundamentals, digital logic, and interfacing components
+- **Programming:** Python, embedded programming, and problem-solving
+- **IoT:** Wireless communication, connected devices, and sensor data
+- **Robotics:** Motor control, sensing, control systems, and autonomous systems
+- **AI & Edge Intelligence:** Machine learning foundations and computer vision
 
-My approach is simple:
+## Hardware & Tools
 
-> **Understand the fundamentals. Build real systems. Break things. Debug them. Go deeper.**
+**Hardware:** ESP32, Arduino Uno, breadboards, electronic components, and sensors
 
-I'm currently building my foundation in embedded systems and hardware while continuing to explore AI and intelligent systems from first principles.
+**Programming:** Python, C/C++ *(as I develop my embedded programming skills)*
 
-My long-term interest is in building and researching **intelligent physical systems** at the intersection of:
+**Software & Tools:** Git, GitHub, Linux, and VS Code
 
-**Embedded Systems → IoT → Robotics → AI**
-
----
-
-## Current learning journey
-
-###  Embedded Systems
-
-* ESP32 & microcontrollers
-* GPIO, digital input/output
-* Sensors & actuators
-* PWM, ADC & interrupts
-* UART, I²C & SPI
-* Embedded programming
-* Hardware debugging
-
-###  IoT
-
-* Connected devices
-* Wi-Fi & BLE
-* MQTT and device communication
-* Sensor data systems
-* Cloud-connected hardware
-
-###  Robotics
-
-Currently building toward:
-
-* Motor & servo control
-* Sensor integration
-* Sensor fusion
-* Control systems
-* Autonomous systems
-* Robot perception
-
-###  AI & Intelligent Systems
-
-Exploring:
-
-* Python for AI/ML
-* Mathematics for machine learning
-* Machine learning foundations
-* Edge AI
-* Computer vision
-* Embodied AI
-* Intelligent and autonomous systems
-
----
+**Previous software experience:** Next.js, TypeScript, FastAPI, and PostgreSQL
 
 ## Projects
 
-I'm building my portfolio as a progression rather than a collection of random tutorials.
+I document my experiments and projects as I progress from electronics fundamentals to connected devices and intelligent systems.
 
-```text
-Embedded Fundamentals
-        ↓
-Connected IoT Systems
-        ↓
-Sensors & Control
-        ↓
-Robotics
-        ↓
-Perception & Edge AI
-        ↓
-Intelligent Autonomous Systems
-```
+- **Embedded Systems:** Microcontroller experiments, GPIO, and peripheral interfacing
+- **IoT:** Connected hardware and sensor data projects
+- **Robotics:** Sensor integration, motor control, and autonomous behavior
+- **AI & Edge Computing:** Exploring how machine learning can run alongside physical systems
 
-Each project will focus on understanding:
+Explore my repositories for implementation details, experiments, and project progress.
 
-* How the system works
-* Why it works
-* Where it fails
-* How to debug and improve it
-* What capability it adds to the next system
+## Background
 
----
+Before focusing on hardware, I built software products and explored the challenges of developing and launching technology products as a solo founder.
 
-## Software & product background
+That experience gives me a software-first perspective as I learn to design systems that connect code with the physical world.
 
-Before shifting my primary focus toward hardware and intelligent physical systems, I spent time building software products and exploring the startup ecosystem.
+## Connect
 
-My experience includes:
+I'm interested in connecting with engineers, researchers, and builders working on embedded systems, IoT, robotics, and intelligent machines.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=nextdotjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+- Email: [annu@nexralab.com](mailto:annu@nexralab.com)
+- Nature photography: [QuientNature](https://x.com/QuientNature)
 
-This background continues to be useful as I explore the software side of IoT, robotics, AI systems, and intelligent products.
-
----
-
-## Founder journey
-
-I'm also building an audience and exploring real problems worth solving.
-
-Previously, I worked on **Nexra**, an experiment around helping founders think more critically about startup decisions.
-
-That experience taught me something important:
-
-> **Building technology is not enough. You need to understand the problem, the user, and whether the solution actually deserves to exist.**
-
-Right now, I'm focused on learning, building, sharing the journey publicly, and discovering problems where technology can create meaningful value.
-
----
-
-## Currently
-
-*  Learning embedded systems with ESP32 and sensors
-*  Building hands-on hardware experiments and projects
-*  Working toward IoT and robotics
-*  Learning AI/ML from first principles
-*  Building a long-term portfolio of intelligent systems
-*  Sharing the journey in public
-*  Shooting nature photography at [QuientNature](https://x.com/QuientNature)
-
----
-
-## Philosophy
-
-I don't want to just learn how to use tools.
-
-I want to understand the layers underneath them.
-
-```text
-Physics
-   ↓
-Electricity
-   ↓
-Semiconductors
-   ↓
-Transistors
-   ↓
-Logic & Digital Systems
-   ↓
-Computer Architecture
-   ↓
-Programming
-   ↓
-Algorithms
-   ↓
-Machine Learning
-   ↓
-AI
-   ↓
-Intelligent Machines
-```
-
-The goal is not to rush through the stack.
-
-The goal is to understand enough of each layer to build better systems on top of it.
-
----
-
-## Let's connect
-
-I'm interested in meeting people working on or exploring:
-
-* Embedded systems
-* IoT
-* Robotics
-* AI & machine learning
-* Edge AI
-* Intelligent systems
-* Developer tools and technology startups
-
-Feel free to connect or follow along as I build.
-
-📬 **[annu@nexralab.com](mailto:annu@nexralab.com)**
